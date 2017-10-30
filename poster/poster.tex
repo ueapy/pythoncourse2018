@@ -1,0 +1,94 @@
+\documentclass[paper=a4]{scrartcl}
+\usepackage[english]{babel}
+\usepackage[utf8]{inputenc}
+
+%%% Geometry
+\usepackage[left=2cm,
+            right=2cm,
+            top=0.5cm,
+            bottom=1cm,
+            headheight=1cm
+           ]{geometry}
+
+%%% Fonts
+\usepackage{scrextend}
+\changefontsizes{14pt}
+\renewcommand{\familydefault}{\sfdefault}
+
+%%% Figures
+\usepackage{graphicx}
+
+%%% Links
+\usepackage{url}
+\usepackage{hyperref}
+\usepackage{xcolor}
+\definecolor{pyblue}{HTML}{446785}
+\definecolor{pyyellow}{HTML}{D6AD43}
+\definecolor{darkblue}{HTML}{000080}
+\hypersetup{colorlinks, breaklinks, urlcolor=darkblue}
+
+%%% Fancy items
+\newcommand*{\pyitem}{\item [{\includegraphics[width=0.4cm]{python_logo.png}}]}
+\usepackage{verbatim}
+\begin{document}
+\pagestyle{empty} % No page numbers
+
+\begin{center}
+\begin{minipage}{0.2\linewidth}
+    \includegraphics[width=\linewidth]{python_logo.png}
+    \vspace{0.5cm}
+\end{minipage}
+
+\Huge \textbf{Introduction to Python in \\ Environmental Sciences \\ 2018}
+
+\end{center}
+
+\begin{itemize}
+\pyitem The 5-day workshop will give a hands-on introduction to Python --- modern open-source programming language with a large community support.
+\pyitem It will focus on the analysis and visualisation of the data commonly used in environmental sciences.
+\pyitem \textbf{No previous Python experience is required!}
+\pyitem More info: \url{https://ueapy.github.io/pythoncourse2018}
+\end{itemize}
+
+
+% \subsection*{Schedule}
+% \begin{center}
+% \begin{tabular}{llll}
+% Mon & 21 Nov & 09:30--18:00 & Python basics and programming environment\\
+% Wed & 23 Nov & 10:30--18:00 & Scientific data manipulation and plotting \\
+% Fri & 25 Nov & 12:00--18:00 & Mapping and applied environmental science exercise\\
+% \end{tabular}
+% \end{center}
+% 
+% 
+% \subsection*{Costs}
+% \begin{itemize}
+% \pyitem EnvEast DTP students: \textbf{free}
+% \pyitem Other participants: \pounds 60
+% \end{itemize}
+% \vspace{-0.5cm}
+% \scriptsize The cost includes lunch on Monday and Wednesday, as well as coffee \& biscuits throughout. \normalsize
+
+\subsection*{Registration and enquiries}
+To register, please send an e-mail to:
+\begin{itemize}
+\pyitem Denis (d.sergeev@uea.ac.uk), or
+\pyitem Tiago (tiago.silva@cefas.co.uk)
+\end{itemize}
+% Places are limited to \textbf{20}, and priority will be given to EnvEast DTP students.
+
+\begin{center}
+\begin{minipage}{0.2\linewidth}
+    \includegraphics[width=\linewidth]{uealogo_horizontal.eps}
+\end{minipage}
+\hspace{2cm}
+\begin{minipage}{0.2\linewidth}
+    \includegraphics[width=\linewidth]{enveast_logo.png}
+\end{minipage}
+\hspace{2cm}
+\begin{minipage}{0.2\linewidth}
+    \includegraphics[width=\linewidth]{cefas_logo.pdf}
+\end{minipage}
+\end{center}
+
+\end{document}
