@@ -6,6 +6,7 @@ repo_url: https://github.com/ueapy/pythoncourse2018
 site_author: Denis Sergeev
 docs_dir: src
 site_dir: _site
+site_favicon: 'img/favicon.ico'
 
 pages:
   - Home: index.md
