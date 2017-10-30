@@ -1,0 +1,15 @@
+site_name: Python
+theme: material
+
+site_url: https://ueapy.github.io/pythoncourse2018
+repo_url: https://github.com/ueapy/pythoncourse2018
+site_author: Denis Sergeev
+docs_dir: src
+site_dir: _site
+
+pages:
+  - Home: index.md
+  - Programme: programme.md
+  - Content: content.md
+  - Installation: installation.md
+  - Resources: resources.md
