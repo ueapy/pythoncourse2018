@@ -2,17 +2,18 @@
 *EnvEast & Cefas workshop*
 
 ## What?
-* The 5-day workshop organised by [EnvEast DTP](http://www.enveast.ac.uk/) and [Cefas](http://www.cefas.co.uk/) will give a hands-on introduction to [Python](http://www.python.org/) programming language.
-* It will focus on the basics of the analysis and visualisation of the data commonly used in environmental sciences.
-* **No previous Python experience is required!**
+* The 3-day workshop organised by [EnvEast DTP](http://www.enveast.ac.uk/) and [Cefas](http://www.cefas.co.uk/) will give a hands-on introduction to [Python](http://www.python.org/) programming language.
+* It will start with basics of Python scripting and then focus on the analysis and visualisation of data formats commonly used in environmental sciences.
+* No previous Python experience is required!
+* **Bring your own laptop!**
 
 *[Download poster in PDF](poster/poster.pdf)*
 
 ## When?
-8-12 January 2018
+10--12 January 2018
 
 ## Where?
-Computer labs **ITCS 01.26** and **ITCS 0.17**, University of East Anglia
+Room 0.02, Zuckerman Institute (ZICER), University of East Anglia, Norwich
 
 ## Topics
 * Python basics and programming environment
