@@ -2,7 +2,7 @@
     "docs": [
         {
             "location": "/",
-            "text": "Introduction to Python in Environmental Sciences\n\n\nEnvEast & Cefas workshop\n\n\nWhat?\n\n\n\n\nThe 5-day workshop organised by \nEnvEast DTP\n and \nCefas\n will give a hands-on introduction to \nPython\n programming language.\n\n\nIt will focus on the basics of the analysis and visualisation of the data commonly used in environmental sciences.\n\n\nNo previous Python experience is required!\n\n\n\n\nDownload poster in PDF\n\n\nWhen?\n\n\n8-12 January 2018\n\n\nWhere?\n\n\nComputer labs \nITCS 01.26\n and \nITCS 0.17\n, University of East Anglia\n\n\nTopics\n\n\n\n\nPython basics and programming environment\n\n\nCore scientific libraries: numpy, scipy, pandas\n\n\nSimple visualisation in matplotlib\n\n\nPlotting data on maps\n\n\nWorking with environmental sciences data formats\n\n\n\n\nMore...\n\n\nRegistration and enquiries\n\n\n\n\nDenis, \nd.sergeev@uea.ac.uk\n\n\nTiago, \ntiago.silva@cefas.co.uk",
+            "text": "Introduction to Python in Environmental Sciences\n\n\nEnvEast & Cefas workshop\n\n\nWhat?\n\n\n\n\nThe 3-day workshop organised by \nEnvEast DTP\n and \nCefas\n will give a hands-on introduction to \nPython\n programming language.\n\n\nIt will start with basics of Python scripting and then focus on the analysis and visualisation of data formats commonly used in environmental sciences.\n\n\nNo previous Python experience is required!\n\n\nBring your own laptop!\n\n\n\n\nDownload poster in PDF\n\n\nWhen?\n\n\n10--12 January 2018\n\n\nWhere?\n\n\nRoom 0.02, Zuckerman Institute (ZICER), University of East Anglia, Norwich\n\n\nTopics\n\n\n\n\nPython basics and programming environment\n\n\nCore scientific libraries: numpy, scipy, pandas\n\n\nSimple visualisation in matplotlib\n\n\nPlotting data on maps\n\n\nWorking with environmental sciences data formats\n\n\n\n\nMore...\n\n\nRegistration and enquiries\n\n\n\n\nDenis, \nd.sergeev@uea.ac.uk\n\n\nTiago, \ntiago.silva@cefas.co.uk",
             "title": "Home"
         },
         {
@@ -12,17 +12,17 @@
         },
         {
             "location": "/#what",
-            "text": "The 5-day workshop organised by  EnvEast DTP  and  Cefas  will give a hands-on introduction to  Python  programming language.  It will focus on the basics of the analysis and visualisation of the data commonly used in environmental sciences.  No previous Python experience is required!   Download poster in PDF",
+            "text": "The 3-day workshop organised by  EnvEast DTP  and  Cefas  will give a hands-on introduction to  Python  programming language.  It will start with basics of Python scripting and then focus on the analysis and visualisation of data formats commonly used in environmental sciences.  No previous Python experience is required!  Bring your own laptop!   Download poster in PDF",
             "title": "What?"
         },
         {
             "location": "/#when",
-            "text": "8-12 January 2018",
+            "text": "10--12 January 2018",
             "title": "When?"
         },
         {
             "location": "/#where",
-            "text": "Computer labs  ITCS 01.26  and  ITCS 0.17 , University of East Anglia",
+            "text": "Room 0.02, Zuckerman Institute (ZICER), University of East Anglia, Norwich",
             "title": "Where?"
         },
         {
@@ -62,12 +62,12 @@
         },
         {
             "location": "/installation/",
-            "text": "Installation instructions\n\n\nFor this workshop we will be running Python in IT labs at UEA. However, if you want to run Python on your own PC, follow the instructions below to set up your environment. The only requirement is that you have to do this \nbefore\n the course! Feel free to contact \nDenis\n if you have any problems with the installation (but better google them first!)\n\n\nNote: \nthe course is designed in Python 3.6\n, but for most cases will work in Python 3.5\n\n\nmore coming soon...",
+            "text": "Installation instructions\n\n\nFor this workshop you need to install Python on your laptop!\n\n\nFollow the instructions below to set up your Python environment. The only requirement is that you have to do this \nbefore\n the course! Feel free to contact \nDenis\n if you have any problems with the installation (but better google them first!)\n\n\nNote: \nthe course is designed in Python 3.6\n, but for most cases will work in Python 3.5 too.\n\n\nmore coming soon...",
             "title": "Installation"
         },
         {
             "location": "/installation/#installation-instructions",
-            "text": "For this workshop we will be running Python in IT labs at UEA. However, if you want to run Python on your own PC, follow the instructions below to set up your environment. The only requirement is that you have to do this  before  the course! Feel free to contact  Denis  if you have any problems with the installation (but better google them first!)  Note:  the course is designed in Python 3.6 , but for most cases will work in Python 3.5  more coming soon...",
+            "text": "For this workshop you need to install Python on your laptop!  Follow the instructions below to set up your Python environment. The only requirement is that you have to do this  before  the course! Feel free to contact  Denis  if you have any problems with the installation (but better google them first!)  Note:  the course is designed in Python 3.6 , but for most cases will work in Python 3.5 too.  more coming soon...",
             "title": "Installation instructions"
         },
         {
