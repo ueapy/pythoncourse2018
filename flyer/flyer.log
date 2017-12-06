@@ -1,9 +1,9 @@
-This is XeTeX, Version 3.1415926-2.5-0.9999.3 (TeX Live 2013/Debian) (format=xelatex 2017.9.4)  6 DEC 2017 14:51
+This is XeTeX, Version 3.1415926-2.5-0.9999.3 (TeX Live 2013/Debian) (format=xelatex 2017.9.4)  6 DEC 2017 15:14
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**poster.tex
-(./poster.tex
+**flyer.tex -o flyer.pdf
+(./flyer.tex
 LaTeX2e <2011/06/27>
 Babel <3.9h> and hyphenation patterns for 4 languages loaded.
 (/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrartcl.cls
@@ -536,8 +536,9 @@ Package: verbatim 2003/08/22 v1.5q LaTeX2e package for verbatim enhancements
 \every@verbatim=\toks18
 \verbatim@line=\toks19
 \verbatim@in@stream=\read1
-) (./poster.aux)
-\openout1 = `poster.aux'.
+)
+No file flyer.aux.
+\openout1 = `flyer.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 33.
 LaTeX Font Info:    ... okay on input line 33.
@@ -555,7 +556,6 @@ LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 33.
 LaTeX Font Info:    ... okay on input line 33.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 33.
 LaTeX Font Info:    ... okay on input line 33.
-
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
 *geometry* verbose mode - [ preamble ] result:
@@ -603,13 +603,15 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 33.
 LaTeX Info: Redefining \pageref on input line 33.
 LaTeX Info: Redefining \nameref on input line 33.
-
-(./poster.out) (./poster.out)
 \@outlinefile=\write3
-\openout3 = `poster.out'.
+\openout3 = `flyer.out'.
+
+
+
+Package hyperref Warning: Rerun to get /PageLabels entry.
 
 File: python_logo.png Graphic file (type QTm)
- <use  "python_logo.png" >
+<use  "python_logo.png" >
 LaTeX Font Info:    Calculating math sizes for size <14> on input line 40.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <14> on input line 40.
@@ -683,7 +685,7 @@ File: se-ascii-print.def 2011/12/02 v1.10 stringenc: Printable ASCII characters
 
 ]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 94.
- (./poster.aux)
+ (./flyer.aux)
 Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 94.
 Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 94.
 
@@ -694,12 +696,12 @@ LaTeX Font Warning: Size substitutions with differences
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 94.
  ) 
 Here is how much of TeX's memory you used:
- 10832 strings out of 495615
- 154494 string characters out of 6186811
- 275008 words of memory out of 5000000
- 13961 multiletter control sequences out of 15000+600000
+ 10824 strings out of 495615
+ 154385 string characters out of 6186811
+ 274893 words of memory out of 5000000
+ 13959 multiletter control sequences out of 15000+600000
  7478 words of font info for 27 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
- 39i,6n,42p,247b,337s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 39i,6n,42p,259b,337s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on poster.pdf (1 page).
+Output written on flyer.pdf (1 page).
