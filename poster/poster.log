@@ -1,8 +1,8 @@
-This is XeTeX, Version 3.1415926-2.5-0.9999.3 (TeX Live 2013/Debian) (format=xelatex 2017.9.4)  5 DEC 2017 18:33
+This is XeTeX, Version 3.1415926-2.5-0.9999.3 (TeX Live 2013/Debian) (format=xelatex 2017.9.4)  6 DEC 2017 13:50
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**poster.pdf
+**poster.tex
 (./poster.tex
 LaTeX2e <2011/06/27>
 Babel <3.9h> and hyphenation patterns for 4 languages loaded.
@@ -636,15 +636,13 @@ File: python_logo.png Graphic file (type QTm)
 File: python_logo.png Graphic file (type QTm)
 
 <use  "python_logo.png" >
-File: python_logo.png Graphic file (type QTm)
- <use  "python_logo.png" >
 
 LaTeX Font Warning: Font shape `OT1/cmss/bx/n' in size <16.79996> not available
 
-(Font)              size <17.28> substituted on input line 55.
+(Font)              size <17.28> substituted on input line 54.
 
 
-Overfull \hbox (6.64069pt too wide) in paragraph at lines 57--62
+Overfull \hbox (6.64069pt too wide) in paragraph at lines 56--61
  [] 
  []
 
@@ -654,10 +652,12 @@ File: python_logo.png Graphic file (type QTm)
  <use  "python_logo.png" >
 
 LaTeX Font Warning: Font shape `OT1/cmss/m/ui' in size <14> not available
-(Font)              Font shape `OT1/cmr/m/ui' tried instead on input line 68.
+(Font)              Font shape `OT1/cmr/m/ui' tried instead on input line 67.
 
 File: python_logo.png Graphic file (type QTm)
 <use  "python_logo.png" >
+File: python_logo.png Graphic file (type QTm)
+ <use  "python_logo.png" >
 File: python_logo.png Graphic file (type QTm)
  <use  "python_logo.png" >
 Invalid UTF-8 byte or sequence at line 83 replaced by U+FFFD.
@@ -669,10 +669,10 @@ Invalid UTF-8 byte or sequence at line 83 replaced by U+FFFD.
 Invalid UTF-8 byte or sequence at line 83 replaced by U+FFFD.
 Invalid UTF-8 byte or sequence at line 83 replaced by U+FFFD.
 File: uealogo_horizontal.eps Graphic file (type eps)
- <uealogo_horizontal.eps>
-File: enveast_logo.png Graphic file (type QTm)
 
-<use  "enveast_logo.png" >
+<uealogo_horizontal.eps>
+File: enveast_logo.png Graphic file (type QTm)
+ <use  "enveast_logo.png" >
 File: cefas_logo.pdf Graphic file (type QTm)
  <use  "cefas_logo.pdf" >
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 95.

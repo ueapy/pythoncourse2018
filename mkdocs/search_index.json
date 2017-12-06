@@ -2,7 +2,7 @@
     "docs": [
         {
             "location": "/",
-            "text": "Introduction to Python in Environmental Sciences\n\n\nEnvEast & Cefas workshop\n\n\nWhat?\n\n\n\n\nThe 3-day workshop organised by \nEnvEast DTP\n and \nCefas\n will give a hands-on introduction to \nPython\n programming language.\n\n\nIt will start with basics of Python scripting and then focus on the analysis and visualisation of data formats commonly used in environmental sciences.\n\n\nNo previous Python experience is required!\n\n\nBring your own laptop!\n\n\n\n\nDownload poster in PDF\n\n\nWhen?\n\n\n10--12 January 2018\n\n\nWhere?\n\n\nRoom 0.02, Zuckerman Institute (ZICER), University of East Anglia, Norwich\n\n\nTopics\n\n\n\n\nPython basics and programming environment\n\n\nCore scientific libraries: numpy, scipy, pandas\n\n\nSimple visualisation in matplotlib\n\n\nPlotting data on maps\n\n\nWorking with environmental sciences data formats\n\n\n\n\nMore...\n\n\nRegistration and enquiries\n\n\n\n\nDenis, \nd.sergeev@uea.ac.uk\n\n\nTiago, \ntiago.silva@cefas.co.uk",
+            "text": "Introduction to Python in Environmental Sciences\n\n\nEnvEast & Cefas workshop\n\n\nWhat?\n\n\n\n\nThe 3-day workshop organised by \nEnvEast DTP\n and \nCefas\n will give a hands-on introduction to \nPython\n programming language.\n\n\nIt will start with basics of Python scripting and then focus on the analysis and visualisation of data formats commonly used in environmental sciences.\n\n\nNo previous Python experience is required!\n\n\nBring your own laptop!\n\n\n\n\nDownload poster in PDF\n\n\nWhen?\n\n\n10--12 January 2018\n\n\nWhere?\n\n\nRoom 0.02, Zuckerman Institute (ZICER), University of East Anglia, Norwich\n\n\nTopics\n\n\n\n\nPython basics and programming environment\n\n\nCore scientific libraries: numpy, scipy, pandas\n\n\nSimple visualisation in matplotlib\n\n\nPlotting data on maps\n\n\nWorking with environmental sciences data formats\n\n\n\n\nMore...\n\n\nRegistration and enquiries\n\n\n\n\nDenis \nd.sergeev@uea.ac.uk\n\n\nTiago \ntiago.silva@cefas.co.uk\n\n\nLuz \nluz.garcia@cefas.co.uk",
             "title": "Home"
         },
         {
@@ -32,7 +32,7 @@
         },
         {
             "location": "/#registration-and-enquiries",
-            "text": "Denis,  d.sergeev@uea.ac.uk  Tiago,  tiago.silva@cefas.co.uk",
+            "text": "Denis  d.sergeev@uea.ac.uk  Tiago  tiago.silva@cefas.co.uk  Luz  luz.garcia@cefas.co.uk",
             "title": "Registration and enquiries"
         },
         {
@@ -62,13 +62,38 @@
         },
         {
             "location": "/installation/",
-            "text": "Installation instructions\n\n\nFor this workshop you need to install Python on your laptop!\n\n\nFollow the instructions below to set up your Python environment. The only requirement is that you have to do this \nbefore\n the course! Feel free to contact \nDenis\n if you have any problems with the installation (but better google them first!)\n\n\nNote: \nthe course is designed in Python 3.6\n, but for most cases will work in Python 3.5 too.\n\n\nmore coming soon...",
+            "text": "Installation instructions\n\n\nFor this workshop you need to install Python on your laptop!\n\n\nFollow the instructions below to set up your Python environment. The only requirement is that you have to do this \nbefore\n the course! Feel free to contact \nDenis\n if you have any problems with the installation (but better google them first!)\n\n\nNote: \nthe course is designed in Python 3.6\n, but for most cases will work in Python 3.5 too.\n\n\n1. Install Python distribution using Anaconda\n\n\n1.1 \nDownload Anaconda with Python 3.6 for your OS\n\n1.2 Make sure it works: type \npython\n in terminal (Linux / OSX) and make sure Python 3.6 prompt appears. On Windows open \nAnaconda Prompt\n in the start menu and check if runs without errors.\n\n\n2. Download the course materials\n\n\n2.1. Linux / OSX\n\n\nOpen terminal and type\n\n\ngit clone https://github.com/ueapy/pythoncourse2018-materials.git\n\n\n\n\ncd pythoncourse2018-materials\n\n\n\n\nconda env create -f environment.yml\n\n\n\n\nThis should create a new conda environment named \"course2018\".\n\n\nIf your default shell is NOT bash, first type \nbash\n. To activate or switch to your new conda environment, you should \nactivate\n it from a command line:\n\n\nsource activate course2018\n\n\n\n\nNote that a prefix will appear in the command line.\n\n\nTo deactivate the environment:\n\n\nsource deactivate\n\n\n\n\n2.2 Windows\n\n\n\n\nDownload and unzip the course content from \nGitHub\n.\n\n\nOpen Anaconda prompt\n\n\n\n\nPlease stand by... More instructions to follow...\n\n\nStill having troubles?\n\n\nIf you are unable to install Anaconda Python 3.6 on your PC, contact the \ncourse organisers\n.\nAnother option: launch the course in a cloud!",
             "title": "Installation"
         },
         {
             "location": "/installation/#installation-instructions",
-            "text": "For this workshop you need to install Python on your laptop!  Follow the instructions below to set up your Python environment. The only requirement is that you have to do this  before  the course! Feel free to contact  Denis  if you have any problems with the installation (but better google them first!)  Note:  the course is designed in Python 3.6 , but for most cases will work in Python 3.5 too.  more coming soon...",
+            "text": "For this workshop you need to install Python on your laptop!  Follow the instructions below to set up your Python environment. The only requirement is that you have to do this  before  the course! Feel free to contact  Denis  if you have any problems with the installation (but better google them first!)  Note:  the course is designed in Python 3.6 , but for most cases will work in Python 3.5 too.",
             "title": "Installation instructions"
+        },
+        {
+            "location": "/installation/#1-install-python-distribution-using-anaconda",
+            "text": "1.1  Download Anaconda with Python 3.6 for your OS \n1.2 Make sure it works: type  python  in terminal (Linux / OSX) and make sure Python 3.6 prompt appears. On Windows open  Anaconda Prompt  in the start menu and check if runs without errors.",
+            "title": "1. Install Python distribution using Anaconda"
+        },
+        {
+            "location": "/installation/#2-download-the-course-materials",
+            "text": "",
+            "title": "2. Download the course materials"
+        },
+        {
+            "location": "/installation/#21-linux-osx",
+            "text": "Open terminal and type  git clone https://github.com/ueapy/pythoncourse2018-materials.git  cd pythoncourse2018-materials  conda env create -f environment.yml  This should create a new conda environment named \"course2018\".  If your default shell is NOT bash, first type  bash . To activate or switch to your new conda environment, you should  activate  it from a command line:  source activate course2018  Note that a prefix will appear in the command line.  To deactivate the environment:  source deactivate",
+            "title": "2.1. Linux / OSX"
+        },
+        {
+            "location": "/installation/#22-windows",
+            "text": "Download and unzip the course content from  GitHub .  Open Anaconda prompt   Please stand by... More instructions to follow...",
+            "title": "2.2 Windows"
+        },
+        {
+            "location": "/installation/#still-having-troubles",
+            "text": "If you are unable to install Anaconda Python 3.6 on your PC, contact the  course organisers .\nAnother option: launch the course in a cloud!",
+            "title": "Still having troubles?"
         },
         {
             "location": "/resources/",
