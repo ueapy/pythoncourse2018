@@ -10,7 +10,7 @@
 *[Download poster in PDF](poster/poster.pdf)*
 
 ## When?
-10--12 January 2018
+10-12 January 2018
 
 ## Where?
 Room 0.02, Zuckerman Institute (ZICER), University of East Anglia, Norwich
