@@ -26,7 +26,6 @@ Room 0.02, Zuckerman Institute (ZICER), University of East Anglia, Norwich
 
 ## Registration and enquiries
 * Denis [d.sergeev@uea.ac.uk](mailto:d.sergeev@uea.ac.uk)
-* Tiago [tiago.silva@cefas.co.uk](mailto:tiago.silva@cefas.co.uk)
 * Luz [luz.garcia@cefas.co.uk](mailto:luz.garcia@cefas.co.uk)
 
 <center>
