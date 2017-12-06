@@ -7,7 +7,7 @@
 * No previous Python experience is required!
 * **Bring your own laptop!**
 
-*[Download poster in PDF](poster/poster.pdf)*
+*[Download flyer in PDF](flyer/flyer.pdf)*
 
 ## When?
 10-12 January 2018
@@ -29,7 +29,7 @@ Room 0.02, Zuckerman Institute (ZICER), University of East Anglia, Norwich
 * Luz [luz.garcia@cefas.co.uk](mailto:luz.garcia@cefas.co.uk)
 
 <center>
-<a href="http://www.uea.ac.uk"><img src="poster/uealogo.png" title="University of East Anglia" style="height:75px;" hspace="20"></a>
-<a href="http://www.enveast.ac.uk"><img src="poster/enveast_logo.png" title="EnvEast DTP" style="height:75px;" hspace="20"></a>
-<a href="http://www.cefas.co.uk"><img src="poster/cefas_logo.png" title="Cefas" style="height:75px;" hspace="20"></a>
+<a href="http://www.uea.ac.uk"><img src="flyer/uealogo.png" title="University of East Anglia" style="height:75px;" hspace="20"></a>
+<a href="http://www.enveast.ac.uk"><img src="flyer/enveast_logo.png" title="EnvEast DTP" style="height:75px;" hspace="20"></a>
+<a href="http://www.cefas.co.uk"><img src="flyer/cefas_logo.png" title="Cefas" style="height:75px;" hspace="20"></a>
 </center>
