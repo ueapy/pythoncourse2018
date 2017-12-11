@@ -37,13 +37,28 @@
         },
         {
             "location": "/programme/",
-            "text": "Programme\n\n\ncoming soon...",
+            "text": "Programme\n\n\nDay 1 (2018-01-10 Wed)\n\n\n\n\n\n\n\n\nTopic\n\n\nLeader\n\n\nType\n\n\nStart\n\n\nEnd\n\n\nDuration\n\n\nLocation\n\n\n\n\n\n\n\n\n\n\nIntroduction to Python\n\n\nTiago\n\n\nLecture\n\n\n09:00\n\n\n09:30\n\n\n00:30\n\n\nZICER 0.02\n\n\n\n\n\n\nHow to run Python scripts\n\n\nDenis\n\n\nLecture\n\n\n09:30\n\n\n09:45\n\n\n00:15\n\n\nZICER 0.02\n\n\n\n\n\n\nJupyter Notebook\n\n\nDenis\n\n\nLecture\n\n\n09:45\n\n\n10:15\n\n\n00:30\n\n\nZICER 0.02\n\n\n\n\n\n\nCoffee\n\n\n\n\nBreak\n\n\n10:15\n\n\n10:45\n\n\n00:30\n\n\nZICER 0.02\n\n\n\n\n\n\nPython syntax\n\n\nLuz\n\n\nLecture\n\n\n10:45\n\n\n11:00\n\n\n00:15\n\n\nZICER 0.02\n\n\n\n\n\n\nPython semantics\n\n\nTiago\n\n\nLecture\n\n\n11:00\n\n\n11:15\n\n\n00:15\n\n\nZICER 0.02\n\n\n\n\n\n\nPython variable types\n\n\nDenis\n\n\nLecture\n\n\n11:15\n\n\n11:45\n\n\n00:30\n\n\nZICER 0.02\n\n\n\n\n\n\nTry what you learned\n\n\nLuz\n\n\nExercise\n\n\n11:45\n\n\n12:15\n\n\n00:30\n\n\nZICER 0.02\n\n\n\n\n\n\nLunch\n\n\n\n\nBreak\n\n\n12:15\n\n\n13:00\n\n\n00:45\n\n\n\n\n\n\n\n\nControl flow statements\n\n\nDenis\n\n\nLecture\n\n\n13:00\n\n\n13:45\n\n\n00:45\n\n\nZICER 0.02\n\n\n\n\n\n\nDefining functions\n\n\nTiago\n\n\nLecture\n\n\n13:45\n\n\n14:30\n\n\n00:45\n\n\nZICER 0.02\n\n\n\n\n\n\nBuild a simple program\n\n\nLuz\n\n\nExercise\n\n\n14:30\n\n\n15:30\n\n\n01:00\n\n\nZICER 0.02\n\n\n\n\n\n\nCoffee\n\n\n\n\nBreak\n\n\n15:30\n\n\n16:00\n\n\n00:30\n\n\nZICER 0.02\n\n\n\n\n\n\nModularity and packages\n\n\nDenis\n\n\nLecture\n\n\n16:00\n\n\n16:30\n\n\n00:30\n\n\nZICER 0.02\n\n\n\n\n\n\nBuild another program\n\n\nLuz\n\n\nExercise\n\n\n16:30\n\n\n17:00\n\n\n00:30\n\n\nZICER 0.02\n\n\n\n\n\n\n\n\nDay 2 (2018-01-11 Thu)\n\n\n\n\n\n\n\n\nTopic\n\n\nLeader\n\n\nType\n\n\nStart\n\n\nEnd\n\n\nDuration\n\n\nLocation\n\n\n\n\n\n\n\n\n\n\nNumpy: basics\n\n\n\n\nLecture\n\n\n09:00\n\n\n10:00\n\n\n01:00\n\n\nZICER 0.02\n\n\n\n\n\n\nNumpy: explore arrays\n\n\n\n\nExercise\n\n\n10:00\n\n\n10:30\n\n\n00:30\n\n\nZICER 0.02\n\n\n\n\n\n\nCoffee\n\n\n\n\nBreak\n\n\n10:30\n\n\n11:00\n\n\n00:30\n\n\nZICER 0.02\n\n\n\n\n\n\nGoing deeper in numpy\n\n\n\n\nLecture\n\n\n11:00\n\n\n12:00\n\n\n01:00\n\n\nZICER 0.02\n\n\n\n\n\n\nLunch\n\n\n\n\nBreak\n\n\n12:00\n\n\n12:45\n\n\n00:45\n\n\n\n\n\n\n\n\nIntro to matplotlib\n\n\n\n\nLecture\n\n\n12:45\n\n\n14:00\n\n\n01:15\n\n\nZICER 0.02\n\n\n\n\n\n\nPlotting exercise\n\n\n\n\nExercise\n\n\n14:00\n\n\n15:00\n\n\n01:00\n\n\nZICER 0.02\n\n\n\n\n\n\nCoffee\n\n\n\n\nBreak\n\n\n15:00\n\n\n15:30\n\n\n00:30\n\n\nZICER 0.02\n\n\n\n\n\n\nMore matplotlib\n\n\n\n\nLecture\n\n\n15:30\n\n\n17:00\n\n\n01:30\n\n\nZICER 0.02\n\n\n\n\n\n\n\n\nDay 3 (2018-01-12 Fri)\n\n\n\n\n\n\n\n\nTopic\n\n\nLeader\n\n\nType\n\n\nStart\n\n\nEnd\n\n\nDuration\n\n\nLocation\n\n\n\n\n\n\n\n\n\n\nIntroduction to cartopy\n\n\nDenis\n\n\nExercise\n\n\n09:00\n\n\n10:00\n\n\n01:00\n\n\nZICER 0.02\n\n\n\n\n\n\nIntroduction to pandas\n\n\nLuz\n\n\nLecture\n\n\n10:00\n\n\n10:30\n\n\n00:30\n\n\nZICER 0.02\n\n\n\n\n\n\nCoffee\n\n\n\n\nBreak\n\n\n10:30\n\n\n11:00\n\n\n00:30\n\n\nZICER 0.02\n\n\n\n\n\n\nIntroduction to pandas\n\n\nDenis\n\n\nLecture\n\n\n11:00\n\n\n12:30\n\n\n01:30\n\n\nZICER 0.02\n\n\n\n\n\n\nLunch\n\n\n\n\nBreak\n\n\n12:30\n\n\n13:15\n\n\n00:45\n\n\n\n\n\n\n\n\nWorking with netCDF data\n\n\nTiago\n\n\nLecture\n\n\n13:15\n\n\n14:45\n\n\n01:30\n\n\nZICER 0.02\n\n\n\n\n\n\nCoffee\n\n\n\n\nBreak\n\n\n14:45\n\n\n15:15\n\n\n00:30\n\n\nZICER 0.02\n\n\n\n\n\n\nBring-your-data project\n\n\nDenis\n\n\nExercise\n\n\n15:15\n\n\n17:00\n\n\n01:45\n\n\nZICER 0.02",
             "title": "Programme"
         },
         {
             "location": "/programme/#programme",
-            "text": "coming soon...",
+            "text": "",
             "title": "Programme"
+        },
+        {
+            "location": "/programme/#day-1-2018-01-10-wed",
+            "text": "Topic  Leader  Type  Start  End  Duration  Location      Introduction to Python  Tiago  Lecture  09:00  09:30  00:30  ZICER 0.02    How to run Python scripts  Denis  Lecture  09:30  09:45  00:15  ZICER 0.02    Jupyter Notebook  Denis  Lecture  09:45  10:15  00:30  ZICER 0.02    Coffee   Break  10:15  10:45  00:30  ZICER 0.02    Python syntax  Luz  Lecture  10:45  11:00  00:15  ZICER 0.02    Python semantics  Tiago  Lecture  11:00  11:15  00:15  ZICER 0.02    Python variable types  Denis  Lecture  11:15  11:45  00:30  ZICER 0.02    Try what you learned  Luz  Exercise  11:45  12:15  00:30  ZICER 0.02    Lunch   Break  12:15  13:00  00:45     Control flow statements  Denis  Lecture  13:00  13:45  00:45  ZICER 0.02    Defining functions  Tiago  Lecture  13:45  14:30  00:45  ZICER 0.02    Build a simple program  Luz  Exercise  14:30  15:30  01:00  ZICER 0.02    Coffee   Break  15:30  16:00  00:30  ZICER 0.02    Modularity and packages  Denis  Lecture  16:00  16:30  00:30  ZICER 0.02    Build another program  Luz  Exercise  16:30  17:00  00:30  ZICER 0.02",
+            "title": "Day 1 (2018-01-10 Wed)"
+        },
+        {
+            "location": "/programme/#day-2-2018-01-11-thu",
+            "text": "Topic  Leader  Type  Start  End  Duration  Location      Numpy: basics   Lecture  09:00  10:00  01:00  ZICER 0.02    Numpy: explore arrays   Exercise  10:00  10:30  00:30  ZICER 0.02    Coffee   Break  10:30  11:00  00:30  ZICER 0.02    Going deeper in numpy   Lecture  11:00  12:00  01:00  ZICER 0.02    Lunch   Break  12:00  12:45  00:45     Intro to matplotlib   Lecture  12:45  14:00  01:15  ZICER 0.02    Plotting exercise   Exercise  14:00  15:00  01:00  ZICER 0.02    Coffee   Break  15:00  15:30  00:30  ZICER 0.02    More matplotlib   Lecture  15:30  17:00  01:30  ZICER 0.02",
+            "title": "Day 2 (2018-01-11 Thu)"
+        },
+        {
+            "location": "/programme/#day-3-2018-01-12-fri",
+            "text": "Topic  Leader  Type  Start  End  Duration  Location      Introduction to cartopy  Denis  Exercise  09:00  10:00  01:00  ZICER 0.02    Introduction to pandas  Luz  Lecture  10:00  10:30  00:30  ZICER 0.02    Coffee   Break  10:30  11:00  00:30  ZICER 0.02    Introduction to pandas  Denis  Lecture  11:00  12:30  01:30  ZICER 0.02    Lunch   Break  12:30  13:15  00:45     Working with netCDF data  Tiago  Lecture  13:15  14:45  01:30  ZICER 0.02    Coffee   Break  14:45  15:15  00:30  ZICER 0.02    Bring-your-data project  Denis  Exercise  15:15  17:00  01:45  ZICER 0.02",
+            "title": "Day 3 (2018-01-12 Fri)"
         },
         {
             "location": "/content/",
@@ -62,38 +77,18 @@
         },
         {
             "location": "/installation/",
-            "text": "Installation instructions\n\n\nPAGE UNDER CONSTRUCTION!\n\n\nFor this workshop you need to install Python on your laptop!\n\n\nFollow the instructions below to set up your Python environment. The only requirement is that you have to do this \nbefore\n the course! Feel free to contact \nDenis\n if you have any problems with the installation (but better google them first!)\n\n\nNote: \nthe course is designed in Python 3.6\n, but for most cases will work in Python 3.5 too.\n\n\n1. Install Python distribution using Anaconda\n\n\n1.1 \nDownload Anaconda with Python 3.6 for your OS\n\n1.2 Make sure it works: type \npython\n in terminal (Linux / OSX) and make sure Python 3.6 prompt appears. On Windows open \nAnaconda Prompt\n in the start menu and check if runs without errors.\n\n\n2. Download the course materials\n\n\n2.1. Linux / OSX\n\n\nOpen terminal and type\n\n\ngit clone https://github.com/ueapy/pythoncourse2018-materials.git\n\n\n\n\ncd pythoncourse2018-materials\n\n\n\n\nconda env create -f environment.yml\n\n\n\n\nThis should create a new conda environment named \"course2018\".\n\n\nIf your default shell is NOT bash, first type \nbash\n. To activate or switch to your new conda environment, you should \nactivate\n it from a command line:\n\n\nsource activate course2018\n\n\n\n\nNote that a prefix will appear in the command line.\n\n\nTo deactivate the environment:\n\n\nsource deactivate\n\n\n\n\n2.2 Windows\n\n\n\n\nDownload and unzip the course content from \nGitHub\n.\n\n\nOpen Anaconda prompt\n\n\n\n\nPlease stand by... More instructions to follow...\n\n\nStill having troubles?\n\n\nIf you are unable to install Anaconda Python 3.6 on your PC, contact the \ncourse organisers\n.\nAnother option: launch the course in a cloud!",
+            "text": "Installation instructions\n\n\nFor this workshop you need to install Python on your laptop!\n\n\nFollow the instructions below to set up your Python environment. The only requirement is that you have to do this \nbefore\n the course! Feel free to contact \nDenis\n if you have any problems with the installation (but better google them first!)\n\n\nNote: \nthe course is designed in Python 3.6\n, but for most cases will work in Python 3.5 too.\n\n\n1. Install Python distribution using Anaconda\n\n\n1.1 \nDownload Anaconda with Python 3.6 for your OS\n\n1.2 Make sure it works: type \npython\n in terminal (Linux / OSX) and make sure Python 3.6 prompt appears. On Windows open \nAnaconda Prompt\n in the start menu and check if runs without errors.\n\n\nmore to follow soon...",
             "title": "Installation"
         },
         {
             "location": "/installation/#installation-instructions",
-            "text": "PAGE UNDER CONSTRUCTION!  For this workshop you need to install Python on your laptop!  Follow the instructions below to set up your Python environment. The only requirement is that you have to do this  before  the course! Feel free to contact  Denis  if you have any problems with the installation (but better google them first!)  Note:  the course is designed in Python 3.6 , but for most cases will work in Python 3.5 too.",
+            "text": "For this workshop you need to install Python on your laptop!  Follow the instructions below to set up your Python environment. The only requirement is that you have to do this  before  the course! Feel free to contact  Denis  if you have any problems with the installation (but better google them first!)  Note:  the course is designed in Python 3.6 , but for most cases will work in Python 3.5 too.",
             "title": "Installation instructions"
         },
         {
             "location": "/installation/#1-install-python-distribution-using-anaconda",
-            "text": "1.1  Download Anaconda with Python 3.6 for your OS \n1.2 Make sure it works: type  python  in terminal (Linux / OSX) and make sure Python 3.6 prompt appears. On Windows open  Anaconda Prompt  in the start menu and check if runs without errors.",
+            "text": "1.1  Download Anaconda with Python 3.6 for your OS \n1.2 Make sure it works: type  python  in terminal (Linux / OSX) and make sure Python 3.6 prompt appears. On Windows open  Anaconda Prompt  in the start menu and check if runs without errors.  more to follow soon...",
             "title": "1. Install Python distribution using Anaconda"
-        },
-        {
-            "location": "/installation/#2-download-the-course-materials",
-            "text": "",
-            "title": "2. Download the course materials"
-        },
-        {
-            "location": "/installation/#21-linux-osx",
-            "text": "Open terminal and type  git clone https://github.com/ueapy/pythoncourse2018-materials.git  cd pythoncourse2018-materials  conda env create -f environment.yml  This should create a new conda environment named \"course2018\".  If your default shell is NOT bash, first type  bash . To activate or switch to your new conda environment, you should  activate  it from a command line:  source activate course2018  Note that a prefix will appear in the command line.  To deactivate the environment:  source deactivate",
-            "title": "2.1. Linux / OSX"
-        },
-        {
-            "location": "/installation/#22-windows",
-            "text": "Download and unzip the course content from  GitHub .  Open Anaconda prompt   Please stand by... More instructions to follow...",
-            "title": "2.2 Windows"
-        },
-        {
-            "location": "/installation/#still-having-troubles",
-            "text": "If you are unable to install Anaconda Python 3.6 on your PC, contact the  course organisers .\nAnother option: launch the course in a cloud!",
-            "title": "Still having troubles?"
         },
         {
             "location": "/resources/",

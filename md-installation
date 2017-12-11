@@ -1,0 +1,35 @@
+## 2. Download the course materials
+### 2.1. Linux / OSX
+Open terminal and type
+```
+git clone https://github.com/ueapy/pythoncourse2018-materials.git
+```
+```
+cd pythoncourse2018-materials
+```
+```
+conda env create -f environment.yml
+```
+This should create a new conda environment named "course2018".
+
+If your default shell is NOT bash, first type `bash`. To activate or switch to your new conda environment, you should *activate* it from a command line:
+```
+source activate course2018
+```
+Note that a prefix will appear in the command line.
+
+To deactivate the environment:
+```
+source deactivate
+```
+
+### 2.2 Windows
+* Download and unzip the course content from [GitHub](https://github.com/ueapy/pythoncourse2018-materials/archive/master.zip).
+* Open Anaconda prompt
+
+Please stand by... More instructions to follow...
+
+
+## Still having troubles?
+If you are unable to install Anaconda Python 3.6 on your PC, contact the [course organisers](index.md#registration-and-enquiries).
+Another option: launch the course in a cloud! [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/ueapy/pythoncourse2018-materials)
