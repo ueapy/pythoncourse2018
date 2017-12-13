@@ -28,6 +28,9 @@ Room 0.02, Zuckerman Institute (ZICER), University of East Anglia, Norwich
 * Denis [d.sergeev@uea.ac.uk](mailto:d.sergeev@uea.ac.uk)
 * Luz [luz.garcia@cefas.co.uk](mailto:luz.garcia@cefas.co.uk)
 
+## Unable to attend?
+Come to the fortnightly meetings of the UEA Python group! Check archives of the previous sessions and the meetings calendar here: [https://ueapy.github.io](https://ueapy.github.io/).
+
 <center>
 <a href="http://www.uea.ac.uk"><img src="flyer/uealogo.png" title="University of East Anglia" style="height:75px;" hspace="20"></a>
 <a href="http://www.enveast.ac.uk"><img src="flyer/enveast_logo.png" title="EnvEast DTP" style="height:75px;" hspace="20"></a>
