@@ -2,7 +2,7 @@
     "docs": [
         {
             "location": "/",
-            "text": "Introduction to Python in Environmental Sciences\n\n\nEnvEast & Cefas workshop\n\n\nWhat?\n\n\n\n\nThe 3-day workshop organised by \nEnvEast DTP\n and \nCefas\n will give a hands-on introduction to \nPython\n programming language.\n\n\nIt will start with basics of Python scripting and then focus on the analysis and visualisation of data formats commonly used in environmental sciences.\n\n\nNo previous Python experience is required!\n\n\nBring your own laptop!\n\n\n\n\nDownload flyer in PDF\n\n\nWhen?\n\n\n10-12 January 2018\n\n\nWhere?\n\n\nRoom 0.02, Zuckerman Institute (ZICER), University of East Anglia, Norwich\n\n\nTopics\n\n\n\n\nPython basics and programming environment\n\n\nCore scientific libraries: numpy, scipy, pandas\n\n\nSimple visualisation in matplotlib\n\n\nPlotting data on maps\n\n\nWorking with environmental sciences data formats\n\n\n\n\nMore...\n\n\nRegistration and enquiries\n\n\n\n\nDenis \nd.sergeev@uea.ac.uk\n\n\nLuz \nluz.garcia@cefas.co.uk",
+            "text": "Introduction to Python in Environmental Sciences\n\n\nEnvEast & Cefas workshop\n\n\nWhat?\n\n\n\n\nThe 3-day workshop organised by \nEnvEast DTP\n and \nCefas\n will give a hands-on introduction to \nPython\n programming language.\n\n\nIt will start with basics of Python scripting and then focus on the analysis and visualisation of data formats commonly used in environmental sciences.\n\n\nNo previous Python experience is required!\n\n\nBring your own laptop!\n\n\n\n\nDownload flyer in PDF\n\n\nWhen?\n\n\n10-12 January 2018\n\n\nWhere?\n\n\nRoom 0.02, Zuckerman Institute (ZICER), University of East Anglia, Norwich\n\n\nTopics\n\n\n\n\nPython basics and programming environment\n\n\nCore scientific libraries: numpy, scipy, pandas\n\n\nSimple visualisation in matplotlib\n\n\nPlotting data on maps\n\n\nWorking with environmental sciences data formats\n\n\n\n\nMore...\n\n\nRegistration and enquiries\n\n\n\n\nDenis \nd.sergeev@uea.ac.uk\n\n\nLuz \nluz.garcia@cefas.co.uk\n\n\n\n\nUnable to attend?\n\n\nCome to the fortnightly meetings of the UEA Python group! Check archives of the previous sessions and the meetings calendar here: \nhttps://ueapy.github.io\n.",
             "title": "Home"
         },
         {
@@ -34,6 +34,11 @@
             "location": "/#registration-and-enquiries",
             "text": "Denis  d.sergeev@uea.ac.uk  Luz  luz.garcia@cefas.co.uk",
             "title": "Registration and enquiries"
+        },
+        {
+            "location": "/#unable-to-attend",
+            "text": "Come to the fortnightly meetings of the UEA Python group! Check archives of the previous sessions and the meetings calendar here:  https://ueapy.github.io .",
+            "title": "Unable to attend?"
         },
         {
             "location": "/programme/",
