@@ -1,12 +1,14 @@
 site_name: Python
-theme: material
+theme:
+  favicon: 'img/favicon.ico'
+  name: material
+
 
 site_url: https://ueapy.github.io/pythoncourse2018
 repo_url: https://github.com/ueapy/pythoncourse2018
 site_author: Denis Sergeev
 docs_dir: src
 site_dir: _site
-site_favicon: 'img/favicon.ico'
 
 pages:
   - Home: index.md
