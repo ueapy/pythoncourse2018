@@ -67,7 +67,7 @@
         },
         {
             "location": "/content/",
-            "text": "Course content\n\n\ncoming soon...\n\n\nDocumentation\n\n\nBelow is the documentation for packages used in the course:\n\n\n\n\njupyter\n\n\nnumpy\n\n\nmatplotlib\n\n\nscipy\n\n\npandas\n\n\nbasemap\n\n\ncartopy\n\n\nxarray\n\n\nshapely",
+            "text": "Course content\n\n\ncoming soon...\n\n\nDocumentation\n\n\nBelow is the documentation for packages used in the course:\n\n\n\n\npython\n\n\njupyter\n\n\nnumpy\n\n\nmatplotlib\n\n\npandas\n\n\ncartopy\n\n\nxarray",
             "title": "Content"
         },
         {
@@ -77,12 +77,12 @@
         },
         {
             "location": "/content/#documentation",
-            "text": "Below is the documentation for packages used in the course:   jupyter  numpy  matplotlib  scipy  pandas  basemap  cartopy  xarray  shapely",
+            "text": "Below is the documentation for packages used in the course:   python  jupyter  numpy  matplotlib  pandas  cartopy  xarray",
             "title": "Documentation"
         },
         {
             "location": "/installation/",
-            "text": "Installation instructions\n\n\nFor this workshop you need to install Python on your laptop!\n\n\nFollow the instructions below to set up your Python environment. The only requirement is that you have to do this \nbefore\n the course! Feel free to contact \nDenis\n if you have any problems with the installation (but better google them first!)\n\n\nNote: \nthe course is designed in Python 3.6\n, but for most cases will work in Python 3.5 too.\n\n\n1. Install Python distribution using Anaconda\n\n\n1.1 \nDownload Anaconda with Python 3.6 for your OS\n\n1.2 Make sure it works: type \npython\n in terminal (Linux / OSX) and make sure Python 3.6 prompt appears. On Windows open \nAnaconda Prompt\n in the start menu and check if runs without errors.\n\n\nmore to follow soon...",
+            "text": "Installation instructions\n\n\nFor this workshop you need to install Python on your laptop!\n\n\nFollow the instructions below to set up your Python environment. The only requirement is that you have to do this \nbefore\n the course! Feel free to contact \nDenis\n if you have any problems with the installation (but better google them first!)\n\n\nNote: \nthe course is designed in Python 3.6\n, but for most cases will work in Python 3.5 too.\n\n\n1. Install Python distribution using Anaconda\n\n\n1.1 \nDownload Anaconda with Python 3.6 for your OS\n\n\n1.2 Make sure it works: type \npython\n in terminal (\nLinux / OSX\n) and make sure Python 3.6 prompt appears. On \nWindows\n open \nAnaconda Prompt\n in the start menu and check if launches without errors.\n\n\n2. Download course materials\n\n\nComing soon...\n\n\nStill having troubles?\n\n\nIf you are unable to install Anaconda Python 3.6 on your PC, contact the \ncourse organisers\n.\nAnother option: launch the course in a cloud!",
             "title": "Installation"
         },
         {
@@ -92,8 +92,18 @@
         },
         {
             "location": "/installation/#1-install-python-distribution-using-anaconda",
-            "text": "1.1  Download Anaconda with Python 3.6 for your OS \n1.2 Make sure it works: type  python  in terminal (Linux / OSX) and make sure Python 3.6 prompt appears. On Windows open  Anaconda Prompt  in the start menu and check if runs without errors.  more to follow soon...",
+            "text": "1.1  Download Anaconda with Python 3.6 for your OS  1.2 Make sure it works: type  python  in terminal ( Linux / OSX ) and make sure Python 3.6 prompt appears. On  Windows  open  Anaconda Prompt  in the start menu and check if launches without errors.",
             "title": "1. Install Python distribution using Anaconda"
+        },
+        {
+            "location": "/installation/#2-download-course-materials",
+            "text": "Coming soon...",
+            "title": "2. Download course materials"
+        },
+        {
+            "location": "/installation/#still-having-troubles",
+            "text": "If you are unable to install Anaconda Python 3.6 on your PC, contact the  course organisers .\nAnother option: launch the course in a cloud!",
+            "title": "Still having troubles?"
         },
         {
             "location": "/resources/",
