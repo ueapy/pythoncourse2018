@@ -1,6 +1,9 @@
 # Introduction to Python in Environmental Sciences
 *EnvEast & Cefas workshop*
 
+!!! warning
+    Registration is closed! 
+
 ## What?
 * The 3-day workshop organised by [EnvEast DTP](http://www.enveast.ac.uk/) and [Cefas](http://www.cefas.co.uk/) will give a hands-on introduction to [Python](http://www.python.org/) programming language.
 * It will start with basics of Python scripting and then focus on the analysis and visualisation of data formats commonly used in environmental sciences.

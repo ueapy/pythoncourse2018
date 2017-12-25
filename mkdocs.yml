@@ -2,7 +2,8 @@ site_name: Python Course 2018
 theme:
   favicon: 'img/favicon.ico'
   name: material
-
+markdown_extensions:
+  - admonition
 
 site_url: https://ueapy.github.io/pythoncourse2018
 repo_url: https://github.com/ueapy/pythoncourse2018
