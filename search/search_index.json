@@ -82,7 +82,7 @@
         },
         {
             "location": "/installation/",
-            "text": "Installation instructions\n\n\nFor this workshop you need to install Python on your laptop!\n\n\nFollow the instructions below to set up your Python environment. The only requirement is that you have to do this \nbefore\n the course! Feel free to contact \nDenis\n if you have any problems with the installation (but better google them first!)\n\n\nNote: \nthe course is designed in Python 3.6\n, but for most cases will work in Python 3.5 too.\n\n\n1. Install Python distribution using Anaconda\n\n\n1.1 \nDownload Anaconda with Python 3.6 for your OS\n\n\n1.2 Make sure it works: type \npython\n in terminal (\nLinux / OSX\n) and make sure Python 3.6 prompt appears. On \nWindows\n open \nAnaconda Prompt\n in the start menu and check if launches without errors.\n\n\n2. Download course materials\n\n\nComing soon...\n\n\nStill having troubles?\n\n\nIf you are unable to install Anaconda Python 3.6 on your PC, contact the \ncourse organisers\n.\nAnother option: launch the course in a cloud!",
+            "text": "Installation instructions\n\n\nFor this workshop you need to install Python on your laptop!\n\n\nFollow the instructions below to set up your Python environment. The only requirement is that you have to do this \nbefore\n the course! Feel free to contact \nDenis\n if you have any problems with the installation (but better google them first!)\n\n\nNote: \nthe course is designed in Python 3.6\n, but for most cases will work in Python 3.5 too.\n\n\n1. Install Python distribution using Anaconda\n\n\nDownload Anaconda with Python 3.6 for your OS\n\n\n2. Download course materials\n\n\nThe material for the workshop can be cloned from our \nGitHub repository\n or can be directly downloaded as a \nzip file\n.\n\n\nOption 1: Using Git\n\n\nIf you don't have git version control system installed, you can install it following these instructions:\n\n\nLinux\n\n\nUse your package manager. For example, using aptitude you would run the following terminal command: \nsudo apt-get install git\n\n\nMac\n\n\n\n\nThe XCode command line tools need to be installed.\n\n\nInstall XCode if it isn\u2019t already. XCode is available in the Mac App Store for free.\n\n\nLaunch XCode and accept the license agreement.\n\n\nQuit XCode.\n\n\nOpen a new terminal and run the command xcode-select --install\n\n\nSelect install on the pop-up menu.\n\n\n\n\nWindows\n\n\nDownload and install the \nGitHub desktop tools\n.\n\n\nOption 2: Download ZIP file\n\n\nDownload the materials as a \nzip file\n and unpack it in a suitable directory, for example, in \nDownloads\n folder.\n\n\n3. Create the environment\n\n\n3.1. Make sure Anaconda is installed and the course materials are downloaded\n\n\n3.2. Open the command line (e.g., OS X terminal on Mac, cmd.exe on Windows)\n\n\n3.3. Navigate to the cloned / downloaded folder (using \ncd\n command), for example:\n\n\ncd C:\\Users\\myname\\Downloads\\pythoncourse2018-materials\\\n\n\n\n\n3.4. Create the environment using \nconda\n package manager:\n\n\nconda env create -f environment.yml\n\n\n\n\nThis will take some time depending on your Internet speed (<15 minutes).\n\n\n4. Activate the environment\n\n\nLinux / Mac\n\n\nIf your default shell is NOT bash, first type \nbash\n. Activate the relevant environment by typing:\n\n\nsource activate course2018\n\n\n\n\nWindows\n\n\nStill in the command line (cmd.exe), type:\n\n\nactivate course2018\n\n\n\n\n5. Launch Jupyter\n\n\nOnce the environment is activated, type \n\n\njupyter notebook\n\n\n\n\nin the command line. This should open Jupyter Notebook in your browser. \n\n\nStill having troubles?\n\n\nIf you are unable to install Anaconda Python 3.6 on your PC, contact the \ncourse organisers\n.\nAnother option: launch the course in a cloud!",
             "title": "Installation"
         },
         {
@@ -92,13 +92,63 @@
         },
         {
             "location": "/installation/#1-install-python-distribution-using-anaconda",
-            "text": "1.1  Download Anaconda with Python 3.6 for your OS  1.2 Make sure it works: type  python  in terminal ( Linux / OSX ) and make sure Python 3.6 prompt appears. On  Windows  open  Anaconda Prompt  in the start menu and check if launches without errors.",
+            "text": "Download Anaconda with Python 3.6 for your OS",
             "title": "1. Install Python distribution using Anaconda"
         },
         {
             "location": "/installation/#2-download-course-materials",
-            "text": "Coming soon...",
+            "text": "The material for the workshop can be cloned from our  GitHub repository  or can be directly downloaded as a  zip file .",
             "title": "2. Download course materials"
+        },
+        {
+            "location": "/installation/#option-1-using-git",
+            "text": "If you don't have git version control system installed, you can install it following these instructions:",
+            "title": "Option 1: Using Git"
+        },
+        {
+            "location": "/installation/#linux",
+            "text": "Use your package manager. For example, using aptitude you would run the following terminal command:  sudo apt-get install git",
+            "title": "Linux"
+        },
+        {
+            "location": "/installation/#mac",
+            "text": "The XCode command line tools need to be installed.  Install XCode if it isn\u2019t already. XCode is available in the Mac App Store for free.  Launch XCode and accept the license agreement.  Quit XCode.  Open a new terminal and run the command xcode-select --install  Select install on the pop-up menu.",
+            "title": "Mac"
+        },
+        {
+            "location": "/installation/#windows",
+            "text": "Download and install the  GitHub desktop tools .",
+            "title": "Windows"
+        },
+        {
+            "location": "/installation/#option-2-download-zip-file",
+            "text": "Download the materials as a  zip file  and unpack it in a suitable directory, for example, in  Downloads  folder.",
+            "title": "Option 2: Download ZIP file"
+        },
+        {
+            "location": "/installation/#3-create-the-environment",
+            "text": "3.1. Make sure Anaconda is installed and the course materials are downloaded  3.2. Open the command line (e.g., OS X terminal on Mac, cmd.exe on Windows)  3.3. Navigate to the cloned / downloaded folder (using  cd  command), for example:  cd C:\\Users\\myname\\Downloads\\pythoncourse2018-materials\\  3.4. Create the environment using  conda  package manager:  conda env create -f environment.yml  This will take some time depending on your Internet speed (<15 minutes).",
+            "title": "3. Create the environment"
+        },
+        {
+            "location": "/installation/#4-activate-the-environment",
+            "text": "",
+            "title": "4. Activate the environment"
+        },
+        {
+            "location": "/installation/#linux-mac",
+            "text": "If your default shell is NOT bash, first type  bash . Activate the relevant environment by typing:  source activate course2018",
+            "title": "Linux / Mac"
+        },
+        {
+            "location": "/installation/#windows_1",
+            "text": "Still in the command line (cmd.exe), type:  activate course2018",
+            "title": "Windows"
+        },
+        {
+            "location": "/installation/#5-launch-jupyter",
+            "text": "Once the environment is activated, type   jupyter notebook  in the command line. This should open Jupyter Notebook in your browser.",
+            "title": "5. Launch Jupyter"
         },
         {
             "location": "/installation/#still-having-troubles",
