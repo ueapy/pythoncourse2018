@@ -31,8 +31,11 @@ Download and install the [GitHub desktop tools](https://desktop.github.com/).
 
 ##### 2.2. Clone the repository
 2.2.1. Open the command line (terminal or cmd.exe)
+
 2.2.2. (Optional) Change to a suitable directory (e.g. `C:\Users\myname\Downloads`)
+
 2.2.3. Clone the repo by typing
+
 ```
 git clone https://github.com/ueapy/pythoncourse2018-materials.git
 ```
