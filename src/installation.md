@@ -15,18 +15,28 @@ Note: **the course is designed in Python 3.6**, but for most cases will work in 
 The material for the workshop can be cloned from our [GitHub repository](https://github.com/ueapy/pythoncourse2018-materials) or can be directly downloaded as a [zip file](https://github.com/ueapy/pythoncourse2018-materials/archive/master.zip).
 
 ### Option 1: Using Git
+#### 2.1. Install Git
 If you don't have git version control system installed, you can install it following these instructions:
-#### Linux
+##### Linux
 Use your package manager. For example, using aptitude you would run the following terminal command: `sudo apt-get install git`
-#### Mac
+##### Mac
 * The XCode command line tools need to be installed.
 * Install XCode if it isn’t already. XCode is available in the Mac App Store for free.
 * Launch XCode and accept the license agreement.
 * Quit XCode.
 * Open a new terminal and run the command xcode-select --install
 * Select install on the pop-up menu.
-#### Windows
+##### Windows
 Download and install the [GitHub desktop tools](https://desktop.github.com/).
+
+##### 2.2. Clone the repository
+2.2.1. Open the command line (terminal or cmd.exe)
+2.2.2. (Optional) Change to a suitable directory (e.g. `C:\Users\myname\Downloads`)
+2.2.3. Clone the repo by typing
+```
+git clone https://github.com/ueapy/pythoncourse2018-materials.git
+```
+This should create a local copy of the course materials in the current directory.
 
 ### Option 2: Download ZIP file
 Download the materials as a [zip file](https://github.com/ueapy/pythoncourse2018-materials/archive/master.zip) and unpack it in a suitable directory, for example, in `Downloads` folder.
