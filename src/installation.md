@@ -7,7 +7,9 @@ Follow the instructions below to set up your Python environment. The only requir
 Note: **the course is designed in Python 3.6**, but for most cases will work in Python 3.5 too.
 
 ## 1. Install Python distribution using Anaconda
-[Download Anaconda with Python 3.6 for your OS](https://www.anaconda.com/download/)
+1.1. [Download Anaconda with Python 3.6 for your OS](https://www.anaconda.com/download/)
+
+1.2. Install it following [these instructions](https://docs.anaconda.com/anaconda/install/)
 
 ## 2. Download course materials
 The material for the workshop can be cloned from our [GitHub repository](https://github.com/ueapy/pythoncourse2018-materials) or can be directly downloaded as a [zip file](https://github.com/ueapy/pythoncourse2018-materials/archive/master.zip).
