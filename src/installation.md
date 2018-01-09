@@ -32,14 +32,22 @@ Download and install the [GitHub desktop tools](https://desktop.github.com/).
 #### 2.2. Clone the repository
 2.2.1. Open the command line (terminal or cmd.exe)
 
-2.2.2. (Optional) Change to a suitable directory (e.g. `C:\Users\myname\Downloads`)
+2.2.2. (Linux or Mac, optional) Change to a suitable directory (e.g. `/home/yourname/Documents`)
 
 2.2.3. Clone the repo by typing
 
+On Linux or Mac:
 ```
 git clone https://github.com/ueapy/pythoncourse2018-materials.git
 ```
+On Windows:
+```
+github clone https://github.com/ueapy/pythoncourse2018-materials.git
+```
 This should create a local copy of the course materials in the current directory.
+
+Windows-users, double check that it is cloned in the directory you want.
+
 
 ### Option 2: Download ZIP file
 Download the materials as a [zip file](https://github.com/ueapy/pythoncourse2018-materials/archive/master.zip) and unpack it in a suitable directory, for example, in `Downloads` folder.
@@ -48,7 +56,7 @@ Download the materials as a [zip file](https://github.com/ueapy/pythoncourse2018
 ## 3. Create the environment
 3.1. Make sure Anaconda is installed and the course materials are downloaded
 
-3.2. Open the command line (e.g., OS X terminal on Mac, cmd.exe on Windows)
+3.2. Open the command line (e.g., OS X terminal on Mac; **Anaconda prompt** on Windows)
 
 3.3. Navigate to the cloned / downloaded folder (using `cd` command), for example:
 
@@ -70,7 +78,7 @@ If your default shell is NOT bash, first type `bash`. Activate the relevant envi
 source activate course2018
 ```
 ### Windows
-Still in the command line (cmd.exe), type:
+Still in the command line (Anaconda prompt), type:
 ```
 activate course2018
 ```
