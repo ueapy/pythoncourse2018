@@ -67,12 +67,12 @@
         },
         {
             "location": "/content/",
-            "text": "Course content\n\n\ncoming soon...\n\n\nDocumentation\n\n\nBelow is the documentation for packages used in the course:\n\n\n\n\npython\n\n\njupyter\n\n\nnumpy\n\n\nmatplotlib\n\n\npandas\n\n\ncartopy\n\n\nxarray",
+            "text": "Course content\n\n\n\n\nYou can view the course content on \nnbviewer\n.\n\n\nIf you want to go through the course material on your own PC, see the \ninstallation instructions\n for information on how to set up a Python environment with the appropriate packages.\n\n\nYou can also run Python exercises using a cloud session: \n. It will let you run interactively the Python code without downloading anything to your local machine.\n\n\n\n\nDocumentation\n\n\nBelow is the documentation for packages used in the course:\n\n\n\n\npython\n\n\njupyter\n\n\nnumpy\n\n\nmatplotlib\n\n\npandas\n\n\ncartopy\n\n\nxarray",
             "title": "Content"
         },
         {
             "location": "/content/#course-content",
-            "text": "coming soon...",
+            "text": "You can view the course content on  nbviewer .  If you want to go through the course material on your own PC, see the  installation instructions  for information on how to set up a Python environment with the appropriate packages.  You can also run Python exercises using a cloud session:  . It will let you run interactively the Python code without downloading anything to your local machine.",
             "title": "Course content"
         },
         {
@@ -167,7 +167,7 @@
         },
         {
             "location": "/resources/",
-            "text": "Resources\n\n\nUEA Python Users group\n\n\nWant to continue learning Python within a friendly ENV community?\n\n\n\n\nJoin the unofficial Python Users Group!\n\n\nStay in touch by subscribing to our mailing list: python@uea.ac.uk\n\n\nHave a look at our previous meetings: \nhttps://ueapy.github.io/\n\n\n\n\nSome useful Python courses\n\n\ncontent coming soon...",
+            "text": "Resources\n\n\nUEA Python Users group\n\n\nWant to continue learning Python within a friendly ENV community?\n\n\n\n\nJoin the unofficial Python Users Group at UEA!\n\n\nStay in touch by subscribing to our mailing list (email Denis)\n\n\nHave a look at our previous meetings: \nhttps://ueapy.github.io/",
             "title": "Resources"
         },
         {
@@ -177,13 +177,8 @@
         },
         {
             "location": "/resources/#uea-python-users-group",
-            "text": "Want to continue learning Python within a friendly ENV community?   Join the unofficial Python Users Group!  Stay in touch by subscribing to our mailing list: python@uea.ac.uk  Have a look at our previous meetings:  https://ueapy.github.io/",
+            "text": "Want to continue learning Python within a friendly ENV community?   Join the unofficial Python Users Group at UEA!  Stay in touch by subscribing to our mailing list (email Denis)  Have a look at our previous meetings:  https://ueapy.github.io/",
             "title": "UEA Python Users group"
-        },
-        {
-            "location": "/resources/#some-useful-python-courses",
-            "text": "content coming soon...",
-            "title": "Some useful Python courses"
         }
     ]
 }
