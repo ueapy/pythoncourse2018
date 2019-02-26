@@ -1,44 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
-    
     <url>
      <loc>https://ueapy.github.io/pythoncourse2018/</loc>
-     <lastmod>2018-01-15</lastmod>
+     <lastmod>2019-02-26</lastmod>
      <changefreq>daily</changefreq>
     </url>
-    
-
-    
     <url>
      <loc>https://ueapy.github.io/pythoncourse2018/programme/</loc>
-     <lastmod>2018-01-15</lastmod>
+     <lastmod>2019-02-26</lastmod>
      <changefreq>daily</changefreq>
     </url>
-    
-
-    
     <url>
      <loc>https://ueapy.github.io/pythoncourse2018/content/</loc>
-     <lastmod>2018-01-15</lastmod>
+     <lastmod>2019-02-26</lastmod>
      <changefreq>daily</changefreq>
     </url>
-    
-
-    
     <url>
      <loc>https://ueapy.github.io/pythoncourse2018/installation/</loc>
-     <lastmod>2018-01-15</lastmod>
+     <lastmod>2019-02-26</lastmod>
      <changefreq>daily</changefreq>
     </url>
-    
-
-    
     <url>
      <loc>https://ueapy.github.io/pythoncourse2018/resources/</loc>
-     <lastmod>2018-01-15</lastmod>
+     <lastmod>2019-02-26</lastmod>
      <changefreq>daily</changefreq>
     </url>
-    
-
 </urlset>
